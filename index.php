@@ -1,4 +1,4 @@
 <?php  
-	echo "Olá, mundo! 456";
-	echo "Estou no Windows";
+	echo "Olá, mundo!";
+	echo "Estou no GitHub!";
 ?>
